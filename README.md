@@ -1,7 +1,8 @@
 ![Banner Image](./banner.png)
 
 
-- <h2>👋 Hi, I’m Huseyin Averbek </h2>
+- <h2>👋 Hi, </h2> 
+I’m Huseyin Averbek
 - <i> Currently:</i> CS Student at Istanbul Technical University. 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
